@@ -1,3 +1,4 @@
+# New Update : https://github.com/aldysetiaa/Weighing-Scale2
 # Weighing-Scale
 Aplikasi untuk menghubungkan jembatan timbang dengan database mysql menggunakan API PHP AJAX, aplikasi ini sudah berjalan 2 tahun sampe saat ini, dan tidak ada kendala, mudah di kustomisasi, dan aplikasi ini berjalan di extension google chrome,
 support RS-232 dan RS-485, Indikator
